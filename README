@@ -1,0 +1,11 @@
+Funtional script for static files deploy
+recommand python 2.6 enviroment
+
+1.support js and css files combine
+2.using google closure and yui compressor for file minify
+3.support version info annotation for minified file
+4.mutiple modes support
+5.content string replace support
+
+main file: compile.py
+config file: compile_config.py
